@@ -1,0 +1,13 @@
+html {
+    direction: rtl;
+    text-align: right;
+}
+@import url('https://fonts.googleapis.com/css2?family=Vazir&display=swap');
+
+body {
+    font-family: 'Vazir', sans-serif;
+}
+
+header, footer, nav {
+    direction: rtl;
+}
